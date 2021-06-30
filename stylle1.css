@@ -1,0 +1,30 @@
+#assil{
+    background-color:#ffffb3 ;
+}
+main{
+    text-align: center;
+}
+#a{
+    display: inline-block;
+    color: #996633;
+}
+#a1{
+    color:#996633 ;
+}
+#a2{
+    color:#bf8040 ;
+}
+h2{
+    color: #604020;
+}
+fieldset{
+    text-align: center;
+}
+footer{
+    background-color: black;
+    color:cornsilk;
+    text-align: center;
+}
+iframe{
+    margin-left:40%;
+}
